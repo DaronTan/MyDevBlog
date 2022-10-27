@@ -1,0 +1,25 @@
+
+table {
+    border-collapse: collapse;
+  }
+
+tr {
+    border-bottom: 1px solid #a6a6a6;
+    border-top: 1px solid #a6a6a6;
+  }
+
+.eg-color {
+    color: lightblue;
+}
+
+.TNR {
+    font-family: "Times New Roman", Times, serif;
+}
+
+#potato {
+    color: orange;
+}
+
+.eg-bg {
+    background-color: lightgoldenrodyellow;
+}
