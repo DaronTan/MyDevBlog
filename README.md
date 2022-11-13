@@ -34,3 +34,8 @@ Week 4:\
 -added h1 header for week 4.\
 -added paragraphs for description of background-size.\
 -style.css changed "background-size: auto;" to "background-size: cover;"\
+-added paragraphs for "flex" displays.\
+-added div containers for flex items.\
+-added class:\
+~"container"\
+-added paragraph and image in div container.
