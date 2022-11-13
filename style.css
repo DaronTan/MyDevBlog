@@ -81,3 +81,7 @@ div.special {
   background: linear-gradient(to bottom, #FFA6B7 0%, #1E2AD2 100%);
   
 }
+
+.border-p {
+  border: 1px solid greenyellow;
+}
