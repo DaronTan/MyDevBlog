@@ -38,4 +38,10 @@ Week 4:\
 -added div containers for flex items.\
 -added class:\
 ~"container"\
--added paragraph and image in div container.
+~"flex-item"\
+~"container-main"\
+\
+-added paragraph and image in div container.\
+-added some flex properties to flex-item.\
+-encapsulated all div containers for each week with a div container-main.\
+-added flex properties to container-main css.\
