@@ -17,7 +17,7 @@ Week 2: \
 -added IDs:\
 ~"potato"\
 \
--added imported google fonts.\
+-added imported google fonts.
 
 Week 3: \
 -added more HTML and CSS examples.\
@@ -28,4 +28,9 @@ Week 3: \
 \
 -added paragraphs for description of "class", "ID", "media queries", "position", "z-index".\
 -added unordered list for z-index positionings.\
--added paragraphs for description of "flex" flexbox, wireframe.\
+-added paragraphs for description of "flex" flexbox, wireframe.
+
+Week 4:\
+-added h1 header for week 4.\
+-added paragraphs for description of background-size.\
+-style.css changed "background-size: auto;" to "background-size: cover;"\
