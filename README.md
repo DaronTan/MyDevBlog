@@ -45,3 +45,6 @@ Week 4:\
 -added some flex properties to flex-item.\
 -encapsulated all div containers for each week with a div container-main.\
 -added flex properties to container-main css.\
+-removed class:
+~"container-main"\
+-added flex properties to body to center flex container.\

@@ -8,6 +8,13 @@ body {
     background-position: center;
     background-size: cover;
     margin: 0 auto;
+    display: flex;
+    width: 80%;
+    flex-wrap: wrap;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
 }
 
 p {
@@ -93,12 +100,6 @@ div.special {
 .flex-item {
   flex-grow: 1;
   flex-basis: 20%;
-}
-
-.container-main {
   display: flex;
-  width: 80%;
-  flex-wrap: wrap;
   flex-direction: column;
-  justify-content: center;
 }
