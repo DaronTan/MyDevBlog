@@ -50,5 +50,6 @@
 \
 **-removed class:**\
 ~"container-main"\
+\
 -added flex properties to body to center flex container.\
 -added "align-items: inherit" to body to make padding of flex items equal.
